@@ -12,7 +12,9 @@
 
 <p align="left">
   📚 Estudos: Atualmente, estou me formando em Ciência da Computação e foco meus estudos em desenvolvimento back-end!<br>
-  🎯 Goals: Me tornar um desenvolvedor back-end cada vez melhor, aprimorando meus conhecimentos na área de desenvolvimento de software e no ecosistema .NET Core<br>
+  
+  🎯 Goals: Me tornar um desenvolvedor back-end cada vez melhor, aprimorando meus conhecimentos na área de desenvolvimento de software e no ecosistema .NET Core!<br>
+  
   🎮 Hobbies: Sou apaixonado por tecnologia no geral! Adoro falar sobre jogos, hardware, tecnologias sem-fio, sci-fi e etc... Claro, também gosto de filmes, séries e música!
 </p>
 
