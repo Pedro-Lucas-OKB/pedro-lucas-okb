@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Pedro Lucas! Sou desenvolvedor back-end C# .NET Core! 🇧🇷</p>
+<p align="left">Me chamo Pedro Lucas! Sou desenvolvedor back-end C# .NET Core!</p>
 
 ###
 
@@ -11,6 +11,8 @@
 ###
 
 <p align="left">
+  🇧🇷
+  
   📚 Estudos: Atualmente, estou me formando em Ciência da Computação e foco meus estudos em desenvolvimento back-end!<br>
   
   🎯 Goals: Me tornar um desenvolvedor back-end cada vez melhor, aprimorando meus conhecimentos na área de desenvolvimento de software e no ecosistema .NET Core!<br>
