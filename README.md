@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Pedro Lucas! Sou desenvolvedor back-end C# .NET Core!</p>
+<p align="left">Me chamo Pedro Lucas! Sou estudante de Ciência da Computação, Desenvolvedor Back-End e trabalho com .NET!</p>
 
 ###
 
