@@ -22,6 +22,8 @@
   🎮 Apaixonado por tecnologia, jogos, hardware, sci-fi, filmes, séries e música!
 </p>
 
+#### 📄 Para mais detalhes, acesse meu currículo ([PDF](Currículo%20-%20Pedro%20Lucas.pdf)) ou ([markdown](RESUME.md))
+
 ###
 
 <div align="center">
