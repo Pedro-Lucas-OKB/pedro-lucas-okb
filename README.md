@@ -22,7 +22,9 @@
   🎮 Apaixonado por tecnologia, jogos, hardware, sci-fi, filmes, séries e música!
 </p>
 
-#### 📄 Para mais detalhes, acesse meu currículo ([PDF](RESUME.pdf)) ou ([markdown](RESUME.md))
+📄 Para mais detalhes, acesse meu [currículo](/Pedro_Lucas_Da_Costa_Vidal_Desenvolvedor_.NET.pdf). 
+
+> English version: [MY RESUME](/Pedro_Lucas_Da_Costa_Vidal_.NET_Developer.pdf) 
 
 ###
 
